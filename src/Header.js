@@ -5,15 +5,15 @@ const Header = () => {
     <header style={headerStyle}>
       <div style={logoStyle}>unfluke</div>
       <nav style={navStyle}>
-        <a href="#">LeaderBoard</a>
-        <a href="#">Historical Trading</a>
-        <a href="#">Historical Chart</a>
-        <a href="#">Scanners</a>
-        <a href="#">Alerts</a>
-        <a href="#">Basic Backtest</a>
-        <a href="#">Advanced Backtest</a>
-        <a href="#">Pricing</a>
-        <a href="#">My Earnings</a>
+        <h4>LeaderBoard</h4>
+        <h4>Historical Trading</h4>
+        <h4>Historical Chart</h4>
+        <h4>Scanners</h4>
+        <h4>Alerts</h4>
+        <h4>Basic Backtest</h4>
+        <h4>Advanced Backtest</h4>
+        <h4>Pricing</h4>
+        <h4>My Earnings</h4>
       </nav>
       <div style={profileStyle}>Profile Icon</div>
     </header>
